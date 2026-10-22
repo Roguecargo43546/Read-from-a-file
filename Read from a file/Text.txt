@@ -1,0 +1,8 @@
+Hello
+This should read each line
+if not scream
+
+
+
+
+Death
